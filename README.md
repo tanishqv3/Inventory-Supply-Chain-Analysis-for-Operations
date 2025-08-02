@@ -1,18 +1,36 @@
 # Inventory-Supply-Chain-Analysis-for-Operations
-📦 Power BI Project: Inventory & Supply Chain Analysis | End-to-End Dashboard
-Managing inventory and ensuring an efficient supply chain are critical for business success. In this Power BI project, we dive deep into stock management, demand forecasting, supplier performance, and logistics optimization — building a fully interactive dashboard that mirrors real-world operations.
+📦 Supply Chain & Inventory Management Dashboard – Power BI Project
 
-🚀 Project Highlights
-In this project, you’ll learn how to:
+This project showcases a dynamic and interactive Power BI dashboard that analyzes critical aspects of supply chain and inventory performance. The goal is to empower decision-makers with data-driven insights to streamline operations and enhance efficiency.
 
-🧹 Data Cleaning & Transformation: Use Power Query to clean and model supply chain datasets.
+🔍 Key Features
 
-📦 Inventory Metrics: Track stock levels, turnover rates, reorder points, and backorders.
+- **Inventory Analysis**: 
+  - Tracked inventory turnover ratio, days sales of inventory (DSI), and category-wise stock levels.
+  - Evaluated trends to identify overstocking or stockout risks.
 
-🚚 Supply Chain KPIs: Analyze lead times, delivery performance, and supplier reliability
+- **Warehouse Utilization**:
+  - Visualized space utilization across different regions to detect imbalances in storage operations.
 
-🔢 Advanced DAX Calculations: Build actionable insights for procurement and operations.
+- **Order Fulfillment Monitoring**:
+  - Analyzed backorders by status (Fulfilled, Pending, Canceled) to track supply chain responsiveness.
 
-📊 Professional Dashboard Design: Create an executive-level dashboard with interactive visuals.
+- **Lead Time Insights**:
+  - Explored average lead times per product category to optimize procurement and production planning.
 
-🗺️ Real-World Storytelling Techniques: Present supply chain data effectively for business stakeholders.
+- **Sales Trends**:
+  - Examined year-wise sales volumes to forecast demand and align supply chain capacity accordingly.
+
+- **Transportation Cost Overview**:
+  - Evaluated transportation expenses by region and product category to uncover cost-saving opportunities.
+
+📈 Tools & Skills Demonstrated
+
+- Power BI (Data Modeling, DAX, Slicers, Visualizations)
+- KPI Dashboard Design for Supply Chain
+- Data Analysis and Insight Generation
+- Business Intelligence & Reporting
+
+📌 Project Objective
+
+To design a professional-grade dashboard that helps businesses monitor supply chain health, reduce inefficiencies, and make informed decisions based on real-time data.
